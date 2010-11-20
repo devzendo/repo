@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><metadata>
   <groupId>org.devzendo</groupId>
   <artifactId>GroupParent</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <versioning>
     <versions>
-      <version>1.0.0</version>
       <version>1.0.1</version>
     </versions>
-    <lastUpdated>20101119221854</lastUpdated>
+    <lastUpdated>20101120150937</lastUpdated>
   </versioning>
 </metadata>
