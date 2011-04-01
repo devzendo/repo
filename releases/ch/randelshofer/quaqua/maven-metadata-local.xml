@@ -1,11 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><metadata>
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
   <groupId>ch.randelshofer</groupId>
   <artifactId>quaqua</artifactId>
-  <version>6.5</version>
+  <version>7.3.4</version>
   <versioning>
     <versions>
-      <version>6.5</version>
+      <version>7.3.4</version>
     </versions>
-    <lastUpdated>20100615042514</lastUpdated>
+    <lastUpdated>20110330083817</lastUpdated>
   </versioning>
 </metadata>
